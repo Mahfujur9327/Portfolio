@@ -6,22 +6,19 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="assets/Favicon.png">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
-  <title>Abdullah's Bio</title>
+  <title>Mahfujur's Bio</title>
   <script src="https://kit.fontawesome.com/841811b8a8.js" crossorigin="anonymous"></script>
 </head>
 <body>
   <section class="container">
     <section class="rightInfo">
-      <p id="header">Hi. I'm <span style="font-weight: 500;">Abdullah</span></p>
+      <p id="header">Hi. I'm <span style="font-weight: 500;">Mahfujur Rahman</span></p>
       <div class="aboutInfo">
-        <p>Machine Learning Engineer at <a href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"> <span style="font-weight: 500;">Meta</span></a>.</p>
+        <p>Intelligent Manufacturing Engineering Student at <a href="[https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect](http://www.zjnu.edu.cn/english/)">
+           <span style="font-weight: 500;">Meta</span></a>.</p>
         
-        <p>Previously: </p>
-        <ul>
-          <li> Graduate Assistant (ML Expert) at <a href="fiu.edu.com" target="_blank"><span style="font-weight: 500; text-decoration: underline;">FIU</span></a></li>
-          <li>Freelance SWE at <a href="https://cew.kfupm.edu.sa/" target="_blank"><span style="font-weight: 500;"> RI, KFUPM</span></a></li>
-          <li>SWE at a startup called <a href="https://www.softwindtech.com/" target="_blank"><span style="font-weight: 500;">SoftwindTech Ltd.</span></a></li>
-          </ul>
+    
+      
       </div>
       <div class="links">
         <a href='Mahfujur Rahman Curriculum vitae (2).pdf' target="_blank"><button>View Resume</button></a>
