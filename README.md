@@ -15,7 +15,7 @@
       <p id="header">Hi. I'm <span style="font-weight: 500;">Mahfujur Rahman</span></p>
       <div class="aboutInfo">
         <p>Intelligent Manufacturing Engineering Student at <a href="[https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect](http://www.zjnu.edu.cn/english/)">
-           <span style="font-weight: 500;">Meta</span></a>.</p>
+           <span style="font-weight: 500;">ZJNU</span></a>.</p>
         
     
       
