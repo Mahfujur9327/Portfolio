@@ -24,20 +24,18 @@
           </ul>
       </div>
       <div class="links">
-        <a href='pdfs/Abdullah_resume.pdf' target="_blank"><button>View Resume</button></a>
+        <a href='Mahfujur Rahman Curriculum vitae (2).pdf' target="_blank"><button>View Resume</button></a>
         <div class="icons">
-          <a href="https://www.linkedin.com/in/newabdullah/" target="_blank"><i class="fab fa-linkedin fa-3x"></i></a>
+          <a href="https://www.linkedin.com/in/mahfujur163/" target="_blank"><i class="fab fa-linkedin fa-3x"></i></a>
           <a href="https://github.com/pwaabdullah/" target="_blank"><i class="fab fa-github fa-3x"></i></a>
-          <a href="https://scholar.google.com/citations?user=5FpaV00AAAAJ&hl=en" target="_blank"><i class="fab fa-google fa-3x"></i></a>
-          <a href="mailto:aamcse@gmail.com"><i class="fas fa-envelope fa-3x"></i></a>
+           <a href="mailto:mahfujur9327@gmail.com"><i class="fas fa-envelope fa-3x"></i></a>
         </div>
       </div>
     </section>
     
     <section class="leftImage">
       <p>
-      <img id="image" src="assets/pic.JPG" alt="Upper: Meta, Bottom: Champion, 2nd GCC Robotics Challenge at Qatar, 2017.">
-      Upper: Meta, Bottom: Champion, 2nd GCC Robotics Challenge at Qatar, 2017.
+      <img id="image" src="Mahfujur.jpg" 
     </p>
     </section>
   </section>
